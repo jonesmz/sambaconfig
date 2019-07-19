@@ -3,6 +3,7 @@
 # Syntax:
 #   Unix_name = SMB_name1 SMB_name2 ...
 
+!root = NETWORK-1\Administrator
 #root    = Administrator admin
 #nobody  = guest pcguest smbguest
 #users	= @"Domain Users"
