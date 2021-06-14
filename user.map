@@ -3,8 +3,5 @@
 # Syntax:
 #   Unix_name = SMB_name1 SMB_name2 ...
 
-!root = NETWORK-1\Administrator
-#root    = Administrator admin
-#nobody  = guest pcguest smbguest
-#users	= @"Domain Users"
-#adm	= @"Domain Admins"
+root	= NETWORK-1\administrator
+nobody	= guest pcguest smbguest
